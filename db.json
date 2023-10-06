@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Sheldon",
+      "email": "Quigley",
+      "phone": "222222"
+    },
+    {
+      "id": 2,
+      "name": "Sheldon",
+      "email": "Quigley",
+      "phone": "222222"
+    },
+    {
+      "id": 3,
+      "name": "Sheldon",
+      "email": "Quigley",
+      "phone": "222222"
+    },
+    {
+      "id": 4,
+      "name": "Sheldon",
+      "email": "Quigley",
+      "phone": "222222"
+    },
+    {
+      "id": 5,
+      "name": "Sheldon",
+      "email": "Quigley",
+      "phone": "222222"
+    },
+    {
+      "id": 6,
+      "name": "Sheldon",
+      "email": "Quigley",
+      "phone": "222222"
+    },
+    {
+      "name": "deepak",
+      "email": "chandupant1111@gmail.com",
+      "phone": "+919458114409",
+      "id": 7
+    },
+    {
+      "name": "eduonix",
+      "email": "hello",
+      "phone": "123456789",
+      "id": 8
+    }
+  ]
+}
